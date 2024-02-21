@@ -2,6 +2,8 @@
 
 # MyList && Other
 #DOMAIN-SUFFIX,leetcode.cn
+DOMAIN-SUFFIX,okx.com
+
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
