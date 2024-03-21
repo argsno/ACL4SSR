@@ -1,5 +1,6 @@
 # Gemini
 # DOMAIN,generativelanguage.googleapis.com
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,generativelanguage
 # DOMAIN,colab.research.google.com
 DOMAIN-KEYWORD,colab
