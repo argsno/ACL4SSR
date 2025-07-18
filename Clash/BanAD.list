@@ -2,6 +2,7 @@
 
 #DOMAIN-SUFFIX,remotelysave.com
 DOMAIN-SUFFIX,update.miui.com
+DOMAIN-SUFFIX,go-updater.brave.com
 
 # 广告关键词
 DOMAIN-KEYWORD,admarvel
